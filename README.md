@@ -73,7 +73,7 @@ Category (1) ──── (N) Expenses
 
 📦 Installation
 1️⃣ Clone Repository
-git clone https://github.com/yourusername/fintrack-pro.git
+git clone https://github.com/ReethikReddy/Fin_tracking/blob/main/ORM_fin_track_project.py
 cd fintrack-pro
 
 2️⃣ Install Dependencies
